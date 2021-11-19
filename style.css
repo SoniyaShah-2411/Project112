@@ -1,0 +1,89 @@
+body 
+{ 
+font-family: 'cursive'; 
+background: #ec8e8a; 
+} 
+
+#logo 
+{
+height: 70px;;
+width :70px;
+}
+
+#result1
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result2
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+
+#result3
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result4
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result5
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result6
+{
+height :150px;
+width:150px;
+border-radius:25px;
+
+}
+ 
+#result7
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result8
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result9
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+ 
+#result10
+{
+height :150px;
+width:150px;
+border-radius:25px;
+}
+
+h5
+{
+background-color:rgb(2, 30, 77);
+color:beige;
+font-size: medium;
+}
